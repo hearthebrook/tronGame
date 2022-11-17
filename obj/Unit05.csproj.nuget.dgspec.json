@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brooklynn/Documents/GitHub/snake_complete/Unit05.csproj": {}
+    "/Users/brooklynn/Documents/GitHub/TronGameSnake/Unit05.csproj": {}
   },
   "projects": {
-    "/Users/brooklynn/Documents/GitHub/snake_complete/Unit05.csproj": {
+    "/Users/brooklynn/Documents/GitHub/TronGameSnake/Unit05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brooklynn/Documents/GitHub/snake_complete/Unit05.csproj",
+        "projectUniqueName": "/Users/brooklynn/Documents/GitHub/TronGameSnake/Unit05.csproj",
         "projectName": "Unit05",
-        "projectPath": "/Users/brooklynn/Documents/GitHub/snake_complete/Unit05.csproj",
+        "projectPath": "/Users/brooklynn/Documents/GitHub/TronGameSnake/Unit05.csproj",
         "packagesPath": "/Users/brooklynn/.nuget/packages/",
-        "outputPath": "/Users/brooklynn/Documents/GitHub/snake_complete/obj/",
+        "outputPath": "/Users/brooklynn/Documents/GitHub/TronGameSnake/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/brooklynn/.nuget/NuGet/NuGet.Config"
