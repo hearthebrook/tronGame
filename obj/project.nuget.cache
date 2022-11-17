@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZniidMbFu4mhllnTHHikQwa/iJg4nDUzxoDf8fHRb78DSL2j6FsuOotKd+g36OrMZedy7ySn9TupWi2NS6b8/A==",
+  "success": true,
+  "projectFilePath": "/Users/brooklynn/Documents/GitHub/snake_complete/Unit05.csproj",
+  "expectedPackageFiles": [
+    "/Users/brooklynn/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/brooklynn/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
